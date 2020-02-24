@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SongFinder
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SongFinder\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=songs\ target
+comment1.target=int\ findTitle(Song[],\ java.lang.String)
+comment2.params=songs\ compare
+comment2.target=int\ getIndexLastDiscount(Song[],\ double)
+comment3.params=songs
+comment3.target=int\ getIndexLastTitle(Song[])
+numComments=4
